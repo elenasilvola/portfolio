@@ -1,0 +1,208 @@
+  [
+
+
+{
+    "id": "2",
+    "title": "RAIN-FORECAST APPLICATION",
+    "description": "a mobile rain-forecast concept designed for Nigerian small holder farmers focusing on usability and accessibility. collaborative project.",
+    "details": [
+      {
+        "heading": "motivation.",
+        "body": [ 
+          "The project focused on designing a UI concept for a rainfall prediction service aimed at Nigerian smallholder farmers, who rely on rainfall as the primary water source in cultivation. The context presented significant usability challenges, including designing for rural environments & varying levels of digital literacy.",
+          "This was a collaborative project conducted as part of a university course at Aalto University."
+      ]
+      },
+       {
+        "heading": "goals.",
+        "body": [
+          "To ideate a concept that supports smallholder farmers in making informed cultivation decisions based on rainfall forecasts.",
+          "To design a user interface suitable for rural Nigerian contexts.",
+          "To develop a high-fidelity prototype that demonstrates the core user flows of the service."
+      ]
+      },
+      {
+        "heading": "role.",
+        "body": "I was responsible for designing and implementing the rainfall prediction view of the interface. This included contributing to literature-based user research, creating wireframes, and developing a high-fidelity prototype in Figma."
+    },
+      {
+        "heading": "approach.",
+        "body": [
+          "We began by researching the specific needs and challenges faced by smallholder farmers in Nigeria regarding weather forecasting. This involved interviews and surveys to gather firsthand insights.",
+          "The concept was informed by literature-based research on smallholder farming practices in rural Nigeria, focusing on how farmers access, interpret, and trust weather information. The research highlighted key constraints such as limited internet access, low digital literacy, language barriers, and a strong reliance on community knowledge when predicting rainfall.",
+          "Based on these insights, we began the design process by individually creating paper wireframes to explore different service concepts and interface approaches. We then discussed and combined these ideas into a shared direction, after which each team member developed the interface for their assigned feature.",
+          "The final interface was designed as a mobile-first application that prioritizes clarity, accessibility, and offline usability. Forecast information is communicated through visual cues, icons, and simple comparative language rather than numerical data, reducing reliance on written text.",
+          "The rainfall prediction view was structured around actionable information: immediate warnings, short-term forecasts in broad time segments, a calendar overview, and a seasonal summary. Design decisions such as six-hour time intervals, icon-based rain indicators, and a voice-guidance option were made to to support interpretation and make the information easier to understand by connecting it to familiar real-world context."
+      ]
+      },
+      {
+        "heading": "outcome.",
+        "body": [
+              "The outcome was a high-fidelity Figma prototype of a mobile rainfall prediction service for smallholder farmers. The concept connects rainfall forecasts with crop information, allowing users to keep track of what they are growing and see which crops fit the current and upcoming rainfall conditions.",
+              "The service was designed to work with limited internet access: users can load weather data when a connection is available and continue using the app offline, with the interface indicating when the forecast data is becoming outdated. The prototype includes a home view, rainfall prediction view, crops view, and user profile.",
+              "The most interesting part of the project was designing for a user group and context I was not familiar with. It forced me to shift away from familiar design assumptions and highlighted the importance of relying on research and thinking outside the box."
+            ]
+      }
+    ],
+    "image": "/images/UIC.jpg"
+  },
+
+  {
+    "id": "1",
+    "title": "CUSTOMER SCENE INVESTIGATION",
+    "description": "a customer scene investigation of Arabia museum in Helsinki focusing on user-centered research methods. collaborative project.",
+    "details": [
+      {
+        "heading": "motivation.",
+        "body": [
+          "Arabia Museum is a calm space filled with objects many visitors recognize from their own homes or childhood memories, such as dishes from a grandmother's cupboard. The museum captures something essential about Finnish design: everyday functionality, durability, and emotional value, which also makes it an attractive destination for international visitors. This combination of familiarity, nostalgia, and cultural significance made the museum a compelling site for exploring visitor experiences.",
+          "This was a collaborative project conducted as part of a university course at Aalto University."
+        ]
+      },
+       {
+        "heading": "goals.",
+        "body": [
+          "To understand the selected design space and its key problems."
+        ]
+      },
+
+      {
+        "heading": "role.",
+        "body": "I contributed to the project by planning and conducting user research in the field. I drafted the interview structure, conducted three interviews, and carried out on-site observations during my museum visit. Following the research phase, I participated in the collaborative analysis and synthesis of findings together with the rest of the team."
+      },
+
+      {
+        "heading": "approach.",
+        "body": [
+          "We began the project with background research on the Arabia Museum to understand its context, history, exhibition, and visitor experience. We reviewed existing information and online reviews to identify initial themes and knowledge gaps, which informed the interview guide, questionnaire design, and preparation for the on-site visit.",
+          "We conducted the fieldwork in smaller subgroups over two separate visits to the museum. During these visits, we carried out on-site observations, ten semi-structured interviews with visitors, and one unstructured interview with a staff member. In addition, we collected questionnaire responses by providing a QR code for visitors to respond independently.",
+          "The data was analyzed qualitatively. We began by thematically coding the interview transcripts and questionnaire responses, focusing on recurring patterns. The number of questionnaire responses was limited, so we did not conduct a quantitative analysis. ",
+          "The findings were then organized using an analog affinity diagram with post-it notes. Based on the affinity diagram, we created a stakeholder map, one scenario, three user groups, three personas, and a user journey map, which together formed the basis for our key insights."
+        ]     
+      },
+      {
+        "heading": "outcome.",
+        "body": [
+          "The findings revealed distinct visitor groups with different motivations: museum visitors sought immersion and emotional connection, while shop-only visitors prioritized convenience. Communication gaps between the museum and shop created confusion in navigation, highlighting the need for clearer guidance.",
+          "The museum's strong nostalgic and design-driven identity also presented opportunities for more immersive engagement, including alternative ways of experiencing familiar items, such as archival material or audiovisual content."
+        ]
+      }
+    ],
+    "image": "/images/Group 13.jpg"
+  },
+
+  {
+    "id": "3",
+    "title": "BACHELOR'S THESIS",
+    "description": "a literature review on the effects of recommender systems on user experience in music streaming services.",
+    "details": [
+      {
+        "heading": "motivation.",
+        "body": "I wanted to do my bachelor's thesis on a self chosen topic related to user experience and my own interests. I am a big music listener and had started to wonder about how music recommender systems work and why do they often seem to fail my needs and expectations as a user."
+      },
+       {
+        "heading": "goals.",
+        "body": [
+          "To understand how music recommender systems operate within digital streaming platforms.",
+          "To examine how data-driven personalization influences user experience and listening behavior.",
+          "To explore how platform-specific features shape music consumption in streaming services."
+        ]
+      },
+      {
+        "heading": "approach.",
+        "body": [
+            "I approached the thesis by first defining research questions around how data-driven recommender systems work on music streaming platforms and how how personalization shapes user experience.",
+            "The work was conducted as a literature review, in which I analyzed academic research on recommender systems, user experience, and music consumption. I then synthesized the findings to examine how personalized recommendations influence user experience, and used these insights to outline directions for future research."
+        ]
+      },
+      {
+        "heading": "outcome.",
+        "body": "The thesis showed that user experience in music streaming is strongly shaped by the quality of initial recommendations, interface clarity, and how transparent and controllable personalization feels to users. Poor early recommendations and unclear interfaces increase cognitive load and reduce engagement, while transparent explanations and user control strengthen trust and long-term commitment. The findings also suggest that the benefits of personalization and recommendation diversity depend on users’ individual goals and personalities. Additionally, recommender systems were found to influence how users perceive themselves as music listeners, contributing to the formation of musical identity."
+      }
+    ],
+    "summaryBefore": " available in finnish via",
+    "text": "LinkedIn.",
+    "image": "/images/kandi1.jpg",
+    "url": "https://www.linkedin.com/in/elena-silvola-b5aab8281/details/education/1769681717381/single-media-viewer/?profileId=ACoAAESvP3YBxbIdiHaeyY-OQAYes027KiVlc1c"
+  },
+  
+  {
+    "id": "4",
+    "title": "WE DON'T DO CHILL HOUSE",
+    "description": "a video gallery built as a React application showcasing live music events. ",
+    "details": [
+      {
+        "heading": "motivation.",
+        "body": [
+          "I wanted to explore building a minimalistic video gallery application to archive live music events I've documented, and to experiment with video and sound editing.",
+          "The project name reflects a personal stance on valuing immersive & authentic music experiences over passive background music."
+      ]      
+      },
+       {
+        "heading": "goals.",
+        "body": [
+          "To design and deploy a responsive web application.",
+          "To present a curated archive of live music videos enhanced through sound and video editing.",
+          "To support exploration through chronological ordering and filtering."
+        ]
+      },
+      {
+        "heading": "approach.",
+        "body": [
+          "I began by searching for inspiration from architecture, art, and my own photographs, with a focus on minimalist and brutalist design. These references inspired early layout and visual direction.",
+          "I then designed desktop and mobile views in Figma, defining a simple design system for typography and color. As part of this system, I developed the recurring “three-line” element used across the background and around the main heading.",
+          "The web application was implemented alongside the design, starting with the core layout. After establishing the foundation, I edited and added the initial set of videos, followed by the implementation of a genre-based filtering system.",
+          "The design was created in Figma. The web application was built with React + Vite and deployed on GitHub Pages. Video and sound editing were done in DaVinci Resolve. Videos are hosted on Cloudinary and filmed on iPhone 15. ChatGPT was used as support for coding and debugging."
+        ]
+      },
+      {
+        "heading": "outcome.",
+        "body": "The project resulted in a live, deployed archive that continues to evolve as new videos are filmed and edited. Over time, my approach to sound editing has developed alongside my studies in acoustics and audio technology, which has influenced the quality and intentionality of the most recent additions."
+      }
+    ],
+    "summaryBefore": "available",
+    "text": "here.",
+    "image": "/images/GALLERY.jpg",
+    "url": "https://elenasilvola.github.io/wedontdochillhouse/"
+  },
+
+  {
+    "id": "5",
+    "title": "NIKSI",
+    "description": "a package management system built as a VS Code plugin, enabling students to start programming courses or projects instantly without manual environment setup. collaborative project.",
+    "details": [
+      {
+        "heading": "motivation.",
+        "body": "We identified a recurring problem in starting programming courses and projects: setting up the development environment often feels tedious and discouraging. Installing dependencies, managing packages, and navigating inconsistent course instructions can take significant time and energy, leaving students frustrated before they even begin coding."
+      },
+       {
+        "heading": "goals.",
+        "body": [
+          "To identify the challenges students face when starting programming courses or new coding projects.",
+          "To define a clear user group and value proposition.",
+          "To explore and evaluate solution concepts.",
+          "To develop a high-fidelity prototype that reduces frustration and enables users to start coding immediately."
+        ]
+      },
+
+      {
+        "heading": "role.",
+        "body": "I worked on the project collaboratively as part of the team and contributed across multiple phases of the process. I participated in problem definition, ideation, and concept development, conducted two user interviews, and took part in user testing and iteration. I was responsible for designing & developing the user interface of the VS Code plugin together with a teammate. I did not participate in the backend implementation."
+      },
+      {
+        "heading": "approach.",
+        "body": [
+          "We approached the problem by first defining the problem space and breaking it down into smaller subproblems related to environment setup, tooling, and onboarding. We ideated solutions through brainstorming and brainwriting sessions, narrowed down the target user group, and defined a value proposition.",
+          "The concept was developed iteratively through user-centered methods. We conducted ten user interviews, built an initial prototype, and pilot-tested it with users. Based on feedback, we refined the concept and interface, conducted a second round of user testing, and iterated the solution into a high-fidelity prototype."     
+        ]
+      },
+      {
+        "heading": "outcome.",
+        "body": " The final solution, Niksi, is a package management system built as a VS Code plugin. It enables students to start programming courses or new projects instantly without manual environment setup. By handling dependencies and configuration in the background, the plugin allows users to focus on coding rather than setup. While not a fully production-ready tool, the prototype demonstrated the core functionality and validated the concept through real use."
+      }
+    ],
+    "image": "/images/niksi.jpg"
+  }
+
+
+]
