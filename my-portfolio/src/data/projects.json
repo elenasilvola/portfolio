@@ -44,7 +44,7 @@
             ]
       }
     ],
-    "image": "/images/UIC.jpg"
+    "image": "images/UIC.jpg"
   },
 
   {
@@ -88,7 +88,7 @@
         ]
       }
     ],
-    "image": "/images/Group 13.jpg"
+    "image": "images/Group 13.jpg"
   },
 
   {
@@ -122,7 +122,7 @@
     ],
     "summaryBefore": " available in finnish via",
     "text": "LinkedIn.",
-    "image": "/images/kandi1.jpg",
+    "image": "images/kandi1.jpg",
     "url": "https://www.linkedin.com/in/elena-silvola-b5aab8281/details/education/1769681717381/single-media-viewer/?profileId=ACoAAESvP3YBxbIdiHaeyY-OQAYes027KiVlc1c"
   },
   
@@ -162,7 +162,7 @@
     ],
     "summaryBefore": "available",
     "text": "here.",
-    "image": "/images/GALLERY.jpg",
+    "image": "images/GALLERY.jpg",
     "url": "https://elenasilvola.github.io/wedontdochillhouse/"
   },
 
@@ -201,7 +201,7 @@
         "body": " The final solution, Niksi, is a package management system built as a VS Code plugin. It enables students to start programming courses or new projects instantly without manual environment setup. By handling dependencies and configuration in the background, the plugin allows users to focus on coding rather than setup. While not a fully production-ready tool, the prototype demonstrated the core functionality and validated the concept through real use."
       }
     ],
-    "image": "/images/niksi.jpg"
+    "image": "images/niksi.jpg"
   }
 
 
